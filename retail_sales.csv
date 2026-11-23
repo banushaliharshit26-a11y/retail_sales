@@ -1,0 +1,501 @@
+date,product,category,price,quantity sold,total sales
+2025-04-25,Wireless Mouse,Electronics,3772.36,8,30178.88
+2025-02-14,T-Shirt,Clothing,2416.94,18,43504.92
+2025-04-22,File Folder,Stationery,47.97,3,143.91
+2025-04-12,Cap,Clothing,2166.76,18,39001.68
+2025-05-23,File Folder,Stationery,213.99,19,4065.81
+2025-05-23,Keyboard,Electronics,3566.16,11,39227.76
+2025-02-22,Jeans,Clothing,3356.66,11,36923.26
+2025-11-06,USB Drive,Electronics,709.4,12,8512.8
+2025-03-05,Rice,Groceries,886.49,18,15956.82
+2025-07-05,Water Bottle,Home & Kitchen,1424.9,20,28498.0
+2025-12-05,Pen Pack,Stationery,640.02,2,1280.04
+2025-02-21,Jacket,Clothing,3450.49,8,27603.92
+2025-03-25,Storage Box,Home & Kitchen,1188.18,12,14258.16
+2025-12-26,Sugar,Groceries,283.03,9,2547.27
+2025-05-06,Power Bank,Electronics,3266.15,18,58790.7
+2025-04-23,Sneakers,Clothing,1421.18,18,25581.24
+2025-06-11,Rice,Groceries,305.7,2,611.4
+2025-06-11,Storage Box,Home & Kitchen,258.85,19,4918.15
+2025-03-15,Sneakers,Clothing,1475.37,15,22130.55
+2025-10-03,Cooking Oil,Groceries,326.09,18,5869.62
+2025-07-24,Tea,Groceries,536.98,19,10202.62
+2025-09-18,Cooking Oil,Groceries,1196.9,5,5984.5
+2025-03-20,Water Bottle,Home & Kitchen,1913.88,4,7655.52
+2025-07-15,Sneakers,Clothing,2147.97,13,27923.61
+2025-01-06,File Folder,Stationery,485.62,18,8741.16
+2025-02-27,Power Bank,Electronics,3816.67,11,41983.37
+2025-05-15,Wheat Flour,Groceries,223.46,1,223.46
+2025-11-17,Pen Pack,Stationery,466.76,4,1867.04
+2025-07-11,Tea,Groceries,746.41,5,3732.05
+2025-01-01,Cap,Clothing,3344.22,17,56851.74
+2025-07-05,Marker Set,Stationery,449.97,4,1799.88
+2025-02-10,Cooking Oil,Groceries,107.19,19,2036.61
+2025-03-06,USB Drive,Electronics,4126.11,18,74269.98
+2025-05-16,Sneakers,Clothing,3321.94,6,19931.64
+2025-10-04,Calculator,Stationery,392.36,7,2746.52
+2025-08-13,Jacket,Clothing,1486.62,12,17839.44
+2025-02-02,File Folder,Stationery,126.48,8,1011.84
+2025-10-29,Rice,Groceries,722.44,8,5779.52
+2025-04-28,T-Shirt,Clothing,387.83,2,775.66
+2025-09-21,Wireless Mouse,Electronics,4333.27,3,12999.81
+2025-10-04,Jacket,Clothing,2391.08,7,16737.56
+2025-08-31,Cap,Clothing,2080.31,8,16642.48
+2025-07-01,Dinner Set,Home & Kitchen,326.38,14,4569.32
+2025-12-11,Table Lamp,Home & Kitchen,1220.86,2,2441.72
+2025-02-25,Wireless Mouse,Electronics,2162.45,11,23786.95
+2025-03-13,Jeans,Clothing,787.2,15,11808.0
+2025-02-08,Dinner Set,Home & Kitchen,768.51,8,6148.08
+2025-01-08,Bedsheet,Home & Kitchen,334.98,18,6029.64
+2025-09-04,Keyboard,Electronics,1039.98,16,16639.68
+2025-07-14,Sneakers,Clothing,3173.18,6,19039.08
+2025-05-27,USB Drive,Electronics,1509.71,15,22645.65
+2025-03-21,Bedsheet,Home & Kitchen,1688.49,16,27015.84
+2025-10-24,Jacket,Clothing,879.3,2,1758.6
+2025-01-26,Notebook,Stationery,678.22,2,1356.44
+2025-03-22,File Folder,Stationery,462.51,17,7862.67
+2025-02-05,Power Bank,Electronics,630.53,6,3783.18
+2025-07-26,Notebook,Stationery,614.19,8,4913.52
+2025-01-21,Power Bank,Electronics,1419.52,20,28390.4
+2025-10-17,Notebook,Stationery,388.92,19,7389.48
+2025-12-09,Marker Set,Stationery,842.54,7,5897.78
+2025-12-10,Cooking Oil,Groceries,348.11,5,1740.55
+2025-01-05,Wheat Flour,Groceries,406.77,3,1220.31
+2025-02-07,Bedsheet,Home & Kitchen,2496.29,4,9985.16
+2025-06-28,Pen Pack,Stationery,465.18,5,2325.9
+2025-08-13,Keyboard,Electronics,2005.25,6,12031.5
+2025-01-05,Marker Set,Stationery,558.28,17,9490.76
+2025-03-10,Marker Set,Stationery,839.95,4,3359.8
+2025-03-21,Rice,Groceries,1072.07,18,19297.26
+2025-04-15,Sugar,Groceries,741.6,11,8157.6
+2025-02-17,Tea,Groceries,606.7,2,1213.4
+2025-03-08,Storage Box,Home & Kitchen,205.81,11,2263.91
+2025-12-28,Cooking Oil,Groceries,899.83,18,16196.94
+2025-12-20,Bedsheet,Home & Kitchen,123.21,3,369.63
+2025-10-26,Cap,Clothing,270.69,12,3248.28
+2025-06-07,Pen Pack,Stationery,398.21,2,796.42
+2025-12-16,Rice,Groceries,1082.75,7,7579.25
+2025-07-28,T-Shirt,Clothing,1334.82,18,24026.76
+2025-03-25,Pen Pack,Stationery,834.67,8,6677.36
+2025-07-30,Sneakers,Clothing,233.03,11,2563.33
+2025-07-15,Jacket,Clothing,683.31,4,2733.24
+2025-06-29,USB Drive,Electronics,1306.56,15,19598.4
+2025-07-24,Cooking Oil,Groceries,298.59,7,2090.13
+2025-06-29,Sugar,Groceries,1042.65,9,9383.85
+2025-06-19,File Folder,Stationery,617.98,18,11123.64
+2025-04-02,Wireless Mouse,Electronics,4415.93,9,39743.37
+2025-08-11,Marker Set,Stationery,53.67,20,1073.4
+2025-03-01,Sugar,Groceries,546.22,17,9285.74
+2025-12-29,Bedsheet,Home & Kitchen,556.19,2,1112.38
+2025-12-18,Water Bottle,Home & Kitchen,1347.81,18,24260.58
+2025-11-16,Jacket,Clothing,1594.85,11,17543.35
+2025-09-17,Rice,Groceries,874.91,10,8749.1
+2025-10-11,Wheat Flour,Groceries,418.37,10,4183.7
+2025-12-13,Jeans,Clothing,1558.5,13,20260.5
+2025-10-08,Cap,Clothing,2056.5,13,26734.5
+2025-10-24,Headphones,Electronics,1612.84,14,22579.76
+2025-12-12,Marker Set,Stationery,429.19,15,6437.85
+2025-12-04,Cap,Clothing,1735.17,6,10411.02
+2025-06-21,Headphones,Electronics,2698.4,20,53968.0
+2025-04-12,Keyboard,Electronics,3445.78,8,27566.24
+2025-11-09,T-Shirt,Clothing,304.82,16,4877.12
+2025-04-10,USB Drive,Electronics,2218.59,19,42153.21
+2025-12-02,Table Lamp,Home & Kitchen,1059.17,5,5295.85
+2025-04-01,Wireless Mouse,Electronics,3947.5,8,31580.0
+2025-03-04,File Folder,Stationery,64.19,8,513.52
+2025-10-14,Dinner Set,Home & Kitchen,2023.4,17,34397.8
+2025-11-10,Marker Set,Stationery,856.03,15,12840.45
+2025-08-17,File Folder,Stationery,750.9,18,13516.2
+2025-11-23,Sneakers,Clothing,1657.73,8,13261.84
+2025-05-21,Tea,Groceries,602.13,8,4817.04
+2025-05-20,Water Bottle,Home & Kitchen,1812.51,8,14500.08
+2025-03-12,Sugar,Groceries,1075.91,3,3227.73
+2025-12-28,Jeans,Clothing,1433.17,5,7165.85
+2025-10-05,T-Shirt,Clothing,1539.81,11,16937.91
+2025-07-19,Table Lamp,Home & Kitchen,249.44,14,3492.16
+2025-07-14,Notebook,Stationery,773.92,19,14704.48
+2025-07-19,Water Bottle,Home & Kitchen,2362.58,10,23625.8
+2025-11-05,Bedsheet,Home & Kitchen,1894.04,18,34092.72
+2025-09-06,Sneakers,Clothing,885.06,14,12390.84
+2025-03-26,USB Drive,Electronics,1846.62,13,24006.06
+2025-01-14,Dinner Set,Home & Kitchen,2453.73,18,44167.14
+2025-02-12,Bedsheet,Home & Kitchen,1454.54,1,1454.54
+2025-01-26,Dinner Set,Home & Kitchen,2180.44,6,13082.64
+2025-06-17,Wheat Flour,Groceries,419.73,15,6295.95
+2025-05-10,Wheat Flour,Groceries,362.78,14,5078.92
+2025-01-27,USB Drive,Electronics,342.07,18,6157.26
+2025-01-16,Cooking Oil,Groceries,794.17,2,1588.34
+2025-03-20,Jeans,Clothing,2961.42,20,59228.4
+2025-10-16,Jeans,Clothing,1736.43,4,6945.72
+2025-03-27,Sneakers,Clothing,2493.21,12,29918.52
+2025-03-25,Calculator,Stationery,868.09,4,3472.36
+2025-10-22,Rice,Groceries,711.27,10,7112.7
+2025-02-08,Table Lamp,Home & Kitchen,2359.53,7,16516.71
+2025-12-17,Pen Pack,Stationery,109.67,10,1096.7
+2025-01-22,Notebook,Stationery,720.68,19,13692.92
+2025-02-05,Tea,Groceries,536.92,12,6443.04
+2025-09-08,Marker Set,Stationery,31.13,14,435.82
+2025-12-29,USB Drive,Electronics,4813.74,15,72206.1
+2025-11-30,Sneakers,Clothing,740.06,17,12581.02
+2025-09-05,Tea,Groceries,977.51,18,17595.18
+2025-05-18,Table Lamp,Home & Kitchen,2081.76,19,39553.44
+2025-05-23,Cooking Oil,Groceries,1003.65,3,3010.95
+2025-11-09,Dinner Set,Home & Kitchen,1901.14,19,36121.66
+2025-04-04,Storage Box,Home & Kitchen,168.88,11,1857.68
+2025-06-24,Dinner Set,Home & Kitchen,951.58,9,8564.22
+2025-10-12,Tea,Groceries,853.37,9,7680.33
+2025-05-04,Power Bank,Electronics,4753.3,3,14259.9
+2025-12-20,Table Lamp,Home & Kitchen,1432.42,8,11459.36
+2025-02-17,Table Lamp,Home & Kitchen,1175.62,1,1175.62
+2025-06-06,Cooking Oil,Groceries,509.11,8,4072.88
+2025-06-26,Marker Set,Stationery,436.47,17,7419.99
+2025-05-19,Bedsheet,Home & Kitchen,893.9,15,13408.5
+2025-06-11,Sugar,Groceries,307.42,7,2151.94
+2025-04-09,Power Bank,Electronics,4766.67,6,28600.02
+2025-09-26,Sneakers,Clothing,1076.27,19,20449.13
+2025-06-01,Marker Set,Stationery,882.85,7,6179.95
+2025-12-29,Jacket,Clothing,751.13,1,751.13
+2025-10-11,Pen Pack,Stationery,261.39,2,522.78
+2025-02-22,Cooking Oil,Groceries,779.93,16,12478.88
+2025-08-14,Power Bank,Electronics,1600.61,16,25609.76
+2025-09-02,Cooking Oil,Groceries,1159.98,9,10439.82
+2025-10-23,Wireless Mouse,Electronics,2153.36,3,6460.08
+2025-06-05,Keyboard,Electronics,958.69,19,18215.11
+2025-11-07,Keyboard,Electronics,812.64,14,11376.96
+2025-07-14,Calculator,Stationery,218.6,17,3716.2
+2025-08-08,Table Lamp,Home & Kitchen,813.65,19,15459.35
+2025-02-20,Tea,Groceries,760.39,20,15207.8
+2025-03-22,Jeans,Clothing,1036.56,3,3109.68
+2025-01-02,Jeans,Clothing,1999.17,6,11995.02
+2025-05-30,Table Lamp,Home & Kitchen,1754.49,16,28071.84
+2025-12-26,Keyboard,Electronics,1618.5,10,16185.0
+2025-11-17,Water Bottle,Home & Kitchen,1749.72,9,15747.48
+2025-04-26,Pen Pack,Stationery,394.12,18,7094.16
+2025-01-31,Jacket,Clothing,2919.21,3,8757.63
+2025-05-28,Jacket,Clothing,2143.4,19,40724.6
+2025-12-25,Water Bottle,Home & Kitchen,1224.88,10,12248.8
+2025-08-13,Storage Box,Home & Kitchen,1301.13,16,20818.08
+2025-06-15,Power Bank,Electronics,439.34,14,6150.76
+2025-12-12,Marker Set,Stationery,42.76,8,342.08
+2025-10-23,Calculator,Stationery,856.69,9,7710.21
+2025-05-23,Keyboard,Electronics,2484.88,15,37273.2
+2025-02-16,Cap,Clothing,1610.21,16,25763.36
+2025-12-10,Storage Box,Home & Kitchen,1080.04,11,11880.44
+2025-05-28,Keyboard,Electronics,1816.57,16,29065.12
+2025-06-11,Bedsheet,Home & Kitchen,188.07,3,564.21
+2025-09-21,Sugar,Groceries,174.47,13,2268.11
+2025-04-07,Power Bank,Electronics,2444.39,2,4888.78
+2025-11-17,Marker Set,Stationery,567.92,16,9086.72
+2025-03-09,Water Bottle,Home & Kitchen,588.54,18,10593.72
+2025-03-04,Wheat Flour,Groceries,1061.78,16,16988.48
+2025-06-09,Power Bank,Electronics,4046.74,6,24280.44
+2025-04-26,Notebook,Stationery,505.98,3,1517.94
+2025-09-13,USB Drive,Electronics,4748.54,5,23742.7
+2025-09-05,Tea,Groceries,858.28,14,12015.92
+2025-07-16,Dinner Set,Home & Kitchen,1196.29,5,5981.45
+2025-02-05,Cap,Clothing,1852.61,5,9263.05
+2025-05-17,Wheat Flour,Groceries,434.26,17,7382.42
+2025-10-24,Headphones,Electronics,3698.74,19,70276.06
+2025-06-26,Dinner Set,Home & Kitchen,1171.71,16,18747.36
+2025-08-22,Tea,Groceries,924.93,13,12024.09
+2025-10-20,Cooking Oil,Groceries,1177.7,8,9421.6
+2025-01-23,Dinner Set,Home & Kitchen,2154.43,14,30162.02
+2025-07-17,Wheat Flour,Groceries,858.06,13,11154.78
+2025-09-15,Sneakers,Clothing,3382.16,5,16910.8
+2025-02-21,Marker Set,Stationery,785.34,15,11780.1
+2025-07-29,File Folder,Stationery,33.51,5,167.55
+2025-06-23,T-Shirt,Clothing,1722.79,9,15505.11
+2025-12-12,File Folder,Stationery,591.86,11,6510.46
+2025-10-05,File Folder,Stationery,859.64,16,13754.24
+2025-04-27,Power Bank,Electronics,575.0,10,5750.0
+2025-08-16,USB Drive,Electronics,4897.1,4,19588.4
+2025-06-16,Jacket,Clothing,3176.47,2,6352.94
+2025-03-16,Headphones,Electronics,1952.7,14,27337.8
+2025-03-29,Cap,Clothing,1530.37,6,9182.22
+2025-11-14,T-Shirt,Clothing,2191.8,13,28493.4
+2025-04-29,Sneakers,Clothing,3207.98,5,16039.9
+2025-08-27,Storage Box,Home & Kitchen,1202.97,1,1202.97
+2025-06-26,Tea,Groceries,223.25,15,3348.75
+2025-12-20,Marker Set,Stationery,582.27,14,8151.78
+2025-07-16,Wheat Flour,Groceries,1020.55,7,7143.85
+2025-07-03,Water Bottle,Home & Kitchen,669.29,19,12716.51
+2025-01-12,Marker Set,Stationery,893.57,10,8935.7
+2025-11-07,Storage Box,Home & Kitchen,119.44,2,238.88
+2025-11-07,Storage Box,Home & Kitchen,1961.78,8,15694.24
+2025-05-09,Cooking Oil,Groceries,778.48,20,15569.6
+2025-06-08,T-Shirt,Clothing,3176.4,2,6352.8
+2025-02-16,Water Bottle,Home & Kitchen,1490.98,5,7454.9
+2025-04-13,Sugar,Groceries,907.08,6,5442.48
+2025-09-29,Cap,Clothing,3086.14,12,37033.68
+2025-09-04,Marker Set,Stationery,750.82,9,6757.38
+2025-02-08,Sugar,Groceries,972.91,15,14593.65
+2025-10-13,Jeans,Clothing,3031.47,13,39409.11
+2025-05-16,Rice,Groceries,957.19,1,957.19
+2025-10-27,Notebook,Stationery,420.21,9,3781.89
+2025-08-30,Storage Box,Home & Kitchen,360.03,8,2880.24
+2025-06-17,Power Bank,Electronics,4450.12,18,80102.16
+2025-12-25,Pen Pack,Stationery,589.93,15,8848.95
+2025-01-20,Wheat Flour,Groceries,175.34,2,350.68
+2025-10-03,Wheat Flour,Groceries,174.7,8,1397.6
+2025-08-03,Sneakers,Clothing,1669.71,18,30054.78
+2025-09-08,Pen Pack,Stationery,799.16,4,3196.64
+2025-01-17,File Folder,Stationery,846.37,9,7617.33
+2025-07-05,Cooking Oil,Groceries,554.32,8,4434.56
+2025-02-01,Headphones,Electronics,2836.21,12,34034.52
+2025-08-21,Storage Box,Home & Kitchen,555.54,4,2222.16
+2025-01-11,Keyboard,Electronics,3298.1,20,65962.0
+2025-10-17,Headphones,Electronics,1406.95,5,7034.75
+2025-04-17,T-Shirt,Clothing,2929.89,18,52738.02
+2025-06-18,Pen Pack,Stationery,735.49,8,5883.92
+2025-03-08,Cap,Clothing,159.5,5,797.5
+2025-12-05,Marker Set,Stationery,722.69,4,2890.76
+2025-10-29,Keyboard,Electronics,320.59,8,2564.72
+2025-03-06,Rice,Groceries,242.13,2,484.26
+2025-09-01,Bedsheet,Home & Kitchen,372.76,3,1118.28
+2025-08-20,Storage Box,Home & Kitchen,1331.77,4,5327.08
+2025-12-04,Pen Pack,Stationery,851.97,2,1703.94
+2025-02-01,Marker Set,Stationery,423.08,1,423.08
+2025-09-09,Table Lamp,Home & Kitchen,1123.06,4,4492.24
+2025-11-08,Water Bottle,Home & Kitchen,2258.24,11,24840.64
+2025-11-21,T-Shirt,Clothing,572.74,20,11454.8
+2025-11-02,Calculator,Stationery,646.69,13,8406.97
+2025-08-09,Marker Set,Stationery,419.27,20,8385.4
+2025-04-21,Wireless Mouse,Electronics,4300.77,18,77413.86
+2025-06-23,Table Lamp,Home & Kitchen,2231.42,14,31239.88
+2025-06-10,Table Lamp,Home & Kitchen,1098.38,4,4393.52
+2025-03-20,Storage Box,Home & Kitchen,1696.26,12,20355.12
+2025-02-17,Water Bottle,Home & Kitchen,318.94,3,956.82
+2025-03-08,Water Bottle,Home & Kitchen,1887.01,12,22644.12
+2025-10-15,Notebook,Stationery,536.09,18,9649.62
+2025-01-27,Rice,Groceries,516.54,14,7231.56
+2025-10-23,Tea,Groceries,402.44,4,1609.76
+2025-04-25,Pen Pack,Stationery,156.16,16,2498.56
+2025-02-28,Headphones,Electronics,4265.52,12,51186.24
+2025-10-15,Tea,Groceries,302.34,14,4232.76
+2025-01-14,Calculator,Stationery,613.98,18,11051.64
+2025-12-26,Marker Set,Stationery,45.48,9,409.32
+2025-03-15,Sugar,Groceries,447.19,6,2683.14
+2025-02-16,File Folder,Stationery,81.24,1,81.24
+2025-06-24,Pen Pack,Stationery,351.05,15,5265.75
+2025-10-18,Jacket,Clothing,1193.99,11,13133.89
+2025-03-22,Notebook,Stationery,797.34,5,3986.7
+2025-08-15,Notebook,Stationery,613.09,9,5517.81
+2025-05-20,Table Lamp,Home & Kitchen,1556.98,14,21797.72
+2025-02-26,Cap,Clothing,531.29,14,7438.06
+2025-01-24,Tea,Groceries,604.49,10,6044.9
+2025-01-04,Sneakers,Clothing,3447.89,2,6895.78
+2025-05-11,Jacket,Clothing,3316.84,5,16584.2
+2025-08-09,Sugar,Groceries,179.18,16,2866.88
+2025-09-14,Jeans,Clothing,1423.69,8,11389.52
+2025-08-12,Marker Set,Stationery,83.43,2,166.86
+2025-10-22,USB Drive,Electronics,4625.52,11,50880.72
+2025-05-29,Bedsheet,Home & Kitchen,1070.61,14,14988.54
+2025-03-29,USB Drive,Electronics,349.07,11,3839.77
+2025-02-15,File Folder,Stationery,752.18,12,9026.16
+2025-07-25,Water Bottle,Home & Kitchen,683.96,19,12995.24
+2025-06-23,Notebook,Stationery,368.27,10,3682.7
+2025-09-19,Jacket,Clothing,2760.04,3,8280.12
+2025-06-29,Power Bank,Electronics,2672.27,12,32067.24
+2025-04-12,Jeans,Clothing,494.4,9,4449.6
+2025-04-01,Cap,Clothing,662.11,3,1986.33
+2025-08-18,Table Lamp,Home & Kitchen,1910.67,19,36302.73
+2025-03-19,Calculator,Stationery,304.42,11,3348.62
+2025-05-21,Water Bottle,Home & Kitchen,1225.41,10,12254.1
+2025-06-08,Notebook,Stationery,329.71,3,989.13
+2025-05-27,Table Lamp,Home & Kitchen,190.26,12,2283.12
+2025-07-16,Wireless Mouse,Electronics,3171.29,17,53911.93
+2025-08-19,Bedsheet,Home & Kitchen,1430.36,2,2860.72
+2025-09-14,Pen Pack,Stationery,302.94,16,4847.04
+2025-02-13,T-Shirt,Clothing,1659.25,11,18251.75
+2025-08-13,Pen Pack,Stationery,54.45,15,816.75
+2025-07-10,Calculator,Stationery,556.63,12,6679.56
+2025-12-14,Wheat Flour,Groceries,514.17,11,5655.87
+2025-02-03,Notebook,Stationery,714.52,11,7859.72
+2025-05-26,Rice,Groceries,687.24,13,8934.12
+2025-02-11,Tea,Groceries,1053.0,11,11583.0
+2025-12-02,Pen Pack,Stationery,826.74,10,8267.4
+2025-06-08,Dinner Set,Home & Kitchen,1528.1,3,4584.3
+2025-03-07,File Folder,Stationery,586.27,11,6448.97
+2025-09-18,Notebook,Stationery,588.5,14,8239.0
+2025-04-20,Rice,Groceries,460.61,6,2763.66
+2025-03-21,Wheat Flour,Groceries,262.73,5,1313.65
+2025-09-17,Headphones,Electronics,4261.03,4,17044.12
+2025-11-13,Calculator,Stationery,53.22,11,585.42
+2025-04-03,Cap,Clothing,1412.01,6,8472.06
+2025-07-30,Pen Pack,Stationery,654.64,2,1309.28
+2025-05-26,Cooking Oil,Groceries,1164.72,20,23294.4
+2025-08-29,Dinner Set,Home & Kitchen,1381.63,10,13816.3
+2025-08-14,Jacket,Clothing,2422.33,19,46024.27
+2025-09-28,Storage Box,Home & Kitchen,1967.5,17,33447.5
+2025-03-12,Dinner Set,Home & Kitchen,2060.54,20,41210.8
+2025-10-11,Rice,Groceries,783.77,12,9405.24
+2025-02-12,Power Bank,Electronics,4293.04,10,42930.4
+2025-03-17,Jacket,Clothing,1655.22,17,28138.74
+2025-08-19,Water Bottle,Home & Kitchen,2371.39,8,18971.12
+2025-09-15,Rice,Groceries,521.28,13,6776.64
+2025-07-11,Cooking Oil,Groceries,487.95,3,1463.85
+2025-11-29,T-Shirt,Clothing,1217.59,4,4870.36
+2025-08-30,Cooking Oil,Groceries,199.62,10,1996.2
+2025-02-10,Sneakers,Clothing,1652.81,1,1652.81
+2025-10-08,Headphones,Electronics,1274.36,5,6371.8
+2025-05-02,Calculator,Stationery,392.46,10,3924.6
+2025-11-24,Rice,Groceries,95.39,14,1335.46
+2025-11-02,File Folder,Stationery,75.27,16,1204.32
+2025-05-04,Notebook,Stationery,576.12,19,10946.28
+2025-06-30,Jacket,Clothing,1587.95,20,31759.0
+2025-09-26,Cap,Clothing,1545.5,3,4636.5
+2025-09-17,Rice,Groceries,1145.95,18,20627.1
+2025-01-23,Calculator,Stationery,37.89,16,606.24
+2025-07-02,Storage Box,Home & Kitchen,708.76,1,708.76
+2025-10-25,Headphones,Electronics,1395.35,4,5581.4
+2025-06-23,Cooking Oil,Groceries,91.43,18,1645.74
+2025-11-20,Sneakers,Clothing,3435.74,16,54971.84
+2025-01-19,Jeans,Clothing,361.39,15,5420.85
+2025-01-22,Cooking Oil,Groceries,90.82,7,635.74
+2025-08-31,Sugar,Groceries,637.84,18,11481.12
+2025-05-27,Rice,Groceries,913.82,7,6396.74
+2025-05-20,Rice,Groceries,1044.33,11,11487.63
+2025-08-14,Headphones,Electronics,2325.52,13,30231.76
+2025-12-21,Storage Box,Home & Kitchen,2436.94,16,38991.04
+2025-05-17,Storage Box,Home & Kitchen,2318.35,17,39411.95
+2025-04-03,USB Drive,Electronics,624.9,20,12498.0
+2025-06-17,Marker Set,Stationery,302.67,3,908.01
+2025-03-27,Sugar,Groceries,557.26,14,7801.64
+2025-11-11,Storage Box,Home & Kitchen,1173.11,12,14077.32
+2025-02-08,Storage Box,Home & Kitchen,1634.73,2,3269.46
+2025-01-16,Storage Box,Home & Kitchen,1331.41,6,7988.46
+2025-01-18,Cap,Clothing,2421.6,15,36324.0
+2025-07-05,T-Shirt,Clothing,940.58,12,11286.96
+2025-12-14,Bedsheet,Home & Kitchen,177.72,5,888.6
+2025-10-21,Storage Box,Home & Kitchen,992.83,3,2978.49
+2025-11-29,Cap,Clothing,1379.28,11,15172.08
+2025-04-06,Cooking Oil,Groceries,1154.2,1,1154.2
+2025-03-02,Bedsheet,Home & Kitchen,1028.77,18,18517.86
+2025-11-10,Sugar,Groceries,856.68,7,5996.76
+2025-02-07,Wheat Flour,Groceries,272.21,5,1361.05
+2025-02-14,Dinner Set,Home & Kitchen,2256.83,15,33852.45
+2025-10-05,Sugar,Groceries,863.07,18,15535.26
+2025-07-05,Sugar,Groceries,1027.58,6,6165.48
+2025-03-13,Pen Pack,Stationery,126.8,7,887.6
+2025-10-21,Sneakers,Clothing,238.05,18,4284.9
+2025-03-08,Wheat Flour,Groceries,972.25,18,17500.5
+2025-09-03,Notebook,Stationery,77.86,13,1012.18
+2025-02-07,File Folder,Stationery,696.86,19,13240.34
+2025-08-27,Jacket,Clothing,2301.83,15,34527.45
+2025-11-24,Marker Set,Stationery,132.93,18,2392.74
+2025-08-10,Pen Pack,Stationery,695.65,5,3478.25
+2025-03-20,Notebook,Stationery,751.62,17,12777.54
+2025-06-27,Cooking Oil,Groceries,227.88,8,1823.04
+2025-04-11,Marker Set,Stationery,764.42,9,6879.78
+2025-11-11,Marker Set,Stationery,130.15,10,1301.5
+2025-10-31,Notebook,Stationery,462.26,6,2773.56
+2025-11-06,Pen Pack,Stationery,170.66,20,3413.2
+2025-02-11,Tea,Groceries,87.79,1,87.79
+2025-10-20,Power Bank,Electronics,1507.12,7,10549.84
+2025-11-18,Bedsheet,Home & Kitchen,1633.58,16,26137.28
+2025-09-05,Marker Set,Stationery,584.88,10,5848.8
+2025-12-19,Sneakers,Clothing,1146.4,3,3439.2
+2025-08-26,Keyboard,Electronics,2338.13,16,37410.08
+2025-06-13,Jacket,Clothing,2182.31,11,24005.41
+2025-09-21,Wheat Flour,Groceries,191.69,12,2300.28
+2025-03-04,Notebook,Stationery,300.82,15,4512.3
+2025-01-26,Wheat Flour,Groceries,327.59,4,1310.36
+2025-05-08,Wheat Flour,Groceries,1042.43,14,14594.02
+2025-04-08,Jacket,Clothing,3278.07,11,36058.77
+2025-09-13,Sneakers,Clothing,3486.5,15,52297.5
+2025-09-16,Wheat Flour,Groceries,66.88,13,869.44
+2025-01-25,Dinner Set,Home & Kitchen,616.35,12,7396.2
+2025-05-27,Headphones,Electronics,2600.75,16,41612.0
+2025-03-10,Notebook,Stationery,765.51,14,10717.14
+2025-01-24,Sugar,Groceries,926.07,12,11112.84
+2025-07-05,Water Bottle,Home & Kitchen,1468.68,7,10280.76
+2025-08-19,Marker Set,Stationery,84.71,17,1440.07
+2025-12-15,Marker Set,Stationery,746.27,20,14925.4
+2025-07-21,Notebook,Stationery,133.22,4,532.88
+2025-03-15,Sugar,Groceries,687.08,12,8244.96
+2025-01-21,Cap,Clothing,1855.56,17,31544.52
+2025-08-31,Wireless Mouse,Electronics,900.92,11,9910.12
+2025-03-13,File Folder,Stationery,151.07,17,2568.19
+2025-11-12,Tea,Groceries,409.49,13,5323.37
+2025-09-30,Tea,Groceries,430.19,17,7313.23
+2025-07-08,Bedsheet,Home & Kitchen,819.5,1,819.5
+2025-06-07,Rice,Groceries,1176.68,19,22356.92
+2025-10-23,Power Bank,Electronics,2504.3,19,47581.7
+2025-09-26,T-Shirt,Clothing,2104.8,6,12628.8
+2025-01-17,File Folder,Stationery,150.04,8,1200.32
+2025-06-10,Notebook,Stationery,187.89,15,2818.35
+2025-07-30,Dinner Set,Home & Kitchen,1091.1,7,7637.7
+2025-12-28,Calculator,Stationery,830.06,2,1660.12
+2025-12-06,Cap,Clothing,844.59,11,9290.49
+2025-08-24,Bedsheet,Home & Kitchen,1004.38,6,6026.28
+2025-11-09,Marker Set,Stationery,500.72,9,4506.48
+2025-10-13,Dinner Set,Home & Kitchen,2397.61,9,21578.49
+2025-05-28,Cooking Oil,Groceries,1132.12,10,11321.2
+2025-10-14,Sneakers,Clothing,1212.09,12,14545.08
+2025-07-14,Sugar,Groceries,181.37,18,3264.66
+2025-05-29,Storage Box,Home & Kitchen,2391.06,5,11955.3
+2025-06-27,Headphones,Electronics,4787.74,3,14363.22
+2025-04-14,Storage Box,Home & Kitchen,1893.61,7,13255.27
+2025-03-12,Marker Set,Stationery,841.06,9,7569.54
+2025-05-05,Power Bank,Electronics,3769.23,8,30153.84
+2025-01-27,Power Bank,Electronics,1321.94,8,10575.52
+2025-02-21,USB Drive,Electronics,1818.89,16,29102.24
+2025-07-28,T-Shirt,Clothing,3381.14,6,20286.84
+2025-06-14,Table Lamp,Home & Kitchen,1661.29,10,16612.9
+2025-11-30,Rice,Groceries,1093.21,3,3279.63
+2025-03-31,Pen Pack,Stationery,490.93,2,981.86
+2025-07-23,Dinner Set,Home & Kitchen,2341.41,2,4682.82
+2025-01-20,Dinner Set,Home & Kitchen,2347.86,10,23478.6
+2025-06-21,Headphones,Electronics,2947.82,4,11791.28
+2025-09-26,Wheat Flour,Groceries,1187.36,18,21372.48
+2025-05-20,Dinner Set,Home & Kitchen,2142.54,15,32138.1
+2025-11-28,T-Shirt,Clothing,1257.79,15,18866.85
+2025-06-01,Cooking Oil,Groceries,56.34,11,619.74
+2025-08-07,Pen Pack,Stationery,174.44,13,2267.72
+2025-04-05,Marker Set,Stationery,96.33,4,385.32
+2025-01-04,Sneakers,Clothing,1234.07,8,9872.56
+2025-06-18,Wheat Flour,Groceries,313.2,9,2818.8
+2025-05-14,Tea,Groceries,878.54,1,878.54
+2025-08-27,Cooking Oil,Groceries,112.06,4,448.24
+2025-12-27,Cooking Oil,Groceries,510.28,17,8674.76
+2025-07-08,Rice,Groceries,780.91,10,7809.1
+2025-09-02,Pen Pack,Stationery,212.83,5,1064.15
+2025-07-11,Sneakers,Clothing,2654.91,20,53098.2
+2025-12-07,Bedsheet,Home & Kitchen,2290.71,18,41232.78
+2025-02-11,Jeans,Clothing,2429.15,20,48583.0
+2025-02-09,File Folder,Stationery,484.79,12,5817.48
+2025-09-16,Notebook,Stationery,74.35,18,1338.3
+2025-06-17,Cap,Clothing,1947.81,6,11686.86
+2025-10-26,File Folder,Stationery,122.29,7,856.03
+2025-01-29,Water Bottle,Home & Kitchen,2257.33,15,33859.95
+2025-10-16,Dinner Set,Home & Kitchen,1331.79,15,19976.85
+2025-01-12,Power Bank,Electronics,2446.3,10,24463.0
+2025-10-24,Storage Box,Home & Kitchen,2059.49,7,14416.43
+2025-10-05,Wireless Mouse,Electronics,2262.56,3,6787.68
+2025-01-17,Wireless Mouse,Electronics,4934.15,16,78946.4
+2025-11-25,Wheat Flour,Groceries,248.78,5,1243.9
+2025-08-18,Storage Box,Home & Kitchen,2482.86,13,32277.18
+2025-03-10,Table Lamp,Home & Kitchen,292.6,18,5266.8
+2025-07-21,Rice,Groceries,247.03,18,4446.54
+2025-01-02,Pen Pack,Stationery,660.52,8,5284.16
+2025-08-06,Headphones,Electronics,2449.27,18,44086.86
+2025-08-24,File Folder,Stationery,744.56,8,5956.48
+2025-01-17,Cooking Oil,Groceries,359.75,4,1439.0
+2025-05-04,Bedsheet,Home & Kitchen,1938.53,1,1938.53
+2025-08-17,T-Shirt,Clothing,488.0,2,976.0
+2025-07-25,Notebook,Stationery,235.37,2,470.74
+2025-03-13,Dinner Set,Home & Kitchen,1395.42,2,2790.84
+2025-06-13,Marker Set,Stationery,226.06,19,4295.14
+2025-05-02,Calculator,Stationery,699.83,11,7698.13
+2025-04-24,Cooking Oil,Groceries,1183.41,17,20117.97
+2025-10-30,Storage Box,Home & Kitchen,760.37,18,13686.66
+2025-06-26,Sneakers,Clothing,2012.1,2,4024.2
+2025-07-29,Bedsheet,Home & Kitchen,864.96,14,12109.44
+2025-08-31,Jacket,Clothing,1411.14,18,25400.52
+2025-08-26,Jeans,Clothing,1157.47,5,5787.35
+2025-10-13,Power Bank,Electronics,2210.22,14,30943.08
+2025-04-15,Pen Pack,Stationery,361.81,9,3256.29
+2025-02-17,Rice,Groceries,1109.78,12,13317.36
+2025-12-11,Pen Pack,Stationery,65.35,13,849.55
+2025-04-07,Calculator,Stationery,54.8,3,164.4
+2025-06-20,Calculator,Stationery,210.97,7,1476.79
